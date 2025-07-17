@@ -1,2 +1,2 @@
 # first-repo
-Embracing my ML era 
+This is a repository of some of my individual work on data science and Machine Learning. 
